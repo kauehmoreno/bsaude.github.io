@@ -36262,7 +36262,7 @@ if(p<=720)return M.aT(s,T.cm(H.a([T.aU(new G.tT(s),4),T.aU(new Y.tV(s),3)],t.p),
 r=C.f.I(1/0,r,q)
 C.f.I(1/0,o,n)
 r=r<=1007?500:400
-return M.aT(s,new T.aj(C.pi,T.dx(H.a([T.aU(new G.tT(s),3),T.aU(new Y.tV(s),3)],t.p),C.v,C.Z,C.r),s),s,s,s,r,s,s,s)},
+return M.aT(s,new T.aj(C.pi,T.dx(H.a([T.aU(new G.tT(s),2),T.aU(new Y.tV(s),3)],t.p),C.v,C.Z,C.r),s),s,s,s,r,s,s,s)},
 $S:46}
 G.tS.prototype={
 G:function(a,b){var s,r=null,q=b.N(t.w).f.a.a<=720,p=q?C.v:C.aN,o=K.z(b),n=q?C.ah:C.a3
