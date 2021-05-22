@@ -4,16 +4,16 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "version.json": "061c0d391810a9fa881bc28ba4c4fc48",
-"index.html": "4691b9cbf2c8a738a8de06ab57afabfc",
-"/": "4691b9cbf2c8a738a8de06ab57afabfc",
-"main.dart.js": "f5c7517c4511a7690fd4180774d79fe0",
+"index.html": "c88dd619e2af02a5ca55d1ffece4784d",
+"/": "c88dd619e2af02a5ca55d1ffece4784d",
+"main.dart.js": "8a7a665eb61a36f41d47db09cebc0556",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "manifest.json": "7dea94ab7d77c0d2a7e3c72b6e190bdd",
-"assets/AssetManifest.json": "90477a4ef395f51dccd5a6e36bb4b263",
+"assets/AssetManifest.json": "70a117659ae38b177a877d594deac3cf",
 "assets/NOTICES": "5067a11f07436a6e2637c0655cdb59b6",
-"assets/FontManifest.json": "f8ec27312bf02bf4ac4f918c39934293",
+"assets/FontManifest.json": "95e622cf09f6b4c398b3857e5bf46ad0",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
 "assets/fonts/MaterialIcons-Regular.otf": "4e6447691c9509f7acdbf8a931a85ca1",
 "assets/assets/svg/akar-icons_facebook-fill.svg": "dc8eb96f3647d99d09e28632ef1ba5aa",
@@ -44,6 +44,14 @@ const RESOURCES = {
 "assets/assets/images/health_plan_one.png": "d19121fcd240dc928e077aa2d797d6de",
 "assets/assets/images/linkedin.png": "a68f526fc118218cd000cc42969f8d26",
 "assets/assets/images/facebook.png": "b71b8361a1afb95c513fa94275aedc36",
+"assets/assets/fonts/Nunito-ExtraBold.ttf": "438598eadc302471a495b3133620f621",
+"assets/assets/fonts/Nunito-Light.ttf": "08bc5f85e4505782d3fa279944f2feab",
+"assets/assets/fonts/Nunito-Regular.ttf": "d8de52e6c5df1a987ef6b9126a70cfcc",
+"assets/assets/fonts/Nunito-SemiBold.ttf": "876701bc4fbf6166f07f152691b15159",
+"assets/assets/fonts/Nunito-Bold.ttf": "c0844c990ecaaeb9f124758d38df4f3f",
+"assets/assets/fonts/Nunito-Black.ttf": "529509f5501c7f45315210d280a456d4",
+"assets/assets/fonts/Nunito-ExtraLight.ttf": "4470502486a612e2bf6f38d5bff77ce8",
+"assets/assets/fonts/OFL.txt": "ee247edc304c64bb2135b9b6ec9a203f",
 "assets/assets/fonts/CustomIcons.ttf": "8acc5ceffe590223eb4146452dbcc436"
 };
 
